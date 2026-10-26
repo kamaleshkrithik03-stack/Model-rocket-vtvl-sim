@@ -6,7 +6,7 @@ import math
 pygame.init()
 W, H = 1000, 700
 win = pygame.display.set_mode((W, H))
-pygame.display.set_caption("rocky_sim_phase3")
+pygame.display.set_caption("rocky_sim_phase4")
 
 WHITE = (240, 240, 240)
 BLUE = (30, 144, 255)
