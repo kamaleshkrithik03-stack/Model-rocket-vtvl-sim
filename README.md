@@ -45,6 +45,10 @@ You also need Pygame:
 ```bash
 pip install pygame
 ```
+## Goal
+Try to reach your target apogee and land as close as possible to the pad while keeping the rocket stable.
+
+Your final score is based on apogee accuracy, maximum tilt, and landing offset.
 
 ```bash
 python Phase5.py
