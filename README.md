@@ -16,7 +16,7 @@ I built this as a digital mirror of my real TVC rocket (currently being fabricat
 - Adjustable fuel, wind, and target apogee
 - COM & COP sliders (stability margin)
 - Wind + random gusts
-- Parachute on descent
+- Parachute on descent( ive added a longer string so that it doesnt look hideous)
 - Scoring based on apogee accuracy and landing precision
 - Simple flight graph after landing
 
@@ -41,6 +41,12 @@ Physics is simplified for gameplay.
 ## How to Run
 
 **Recommended (best version):**
+You also need Pygame:
+```bash
+pip install pygame
+```
 
 ```bash
-python Phase5.pyYou also need Pygame:Bashpip install pygameMake sure the two image files (Types_of_clouds.jpg and launch_real.JPG) are in the same folder as the script.
+python Phase5.py
+```
+
