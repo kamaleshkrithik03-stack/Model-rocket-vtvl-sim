@@ -3,9 +3,9 @@
 A gamified 2D simulator of a TVC (Thrust Vector Control) model rocket.  
 More interactive and lively than my previous versions.
 
-I built this as a digital mirror of my real TVC rocket (currently in fabricate YSWS).
+I built this as a digital mirror of my real TVC rocket (currently being fabricated in YSWS).
 
-**Phase 5 is the final version as seen by the 600 lines of code.**  
+**Phase 5 is the final and best version** (around 600 lines of code).  
 (Note: Phase 5 may have appeared earlier under the name `karman_reusable_rocket`.)
 
 ---
@@ -43,4 +43,4 @@ Physics is simplified for gameplay.
 **Recommended (best version):**
 
 ```bash
-python Phase5.py
+python Phase5.pyYou also need Pygame:Bashpip install pygameMake sure the two image files (Types_of_clouds.jpg and launch_real.JPG) are in the same folder as the script.
