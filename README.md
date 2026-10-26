@@ -3,7 +3,7 @@
 A gamified 2D simulator of a TVC (Thrust Vector Control) model rocket.  
 More interactive and lively than my previous versions.
 
-I built this as a digital mirror of my real TVC rocket (currently being fabricated in YSWS).
+I built this as a digital mirror of my real TVC rocket (currently workin in fabricate YSWS).
 
 **Phase 5 is the final and best version** (around 600 lines of code).  
 (Note: Phase 5 may have appeared earlier under the name `karman_reusable_rocket`.)
