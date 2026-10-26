@@ -28,3 +28,8 @@ I built it as a mirror om my real TVC rocket(on going in fabricate YSWS).
 | `Types_of_clouds.jpg` | Flight background image |
 | `launch_real.JPG`     | Menu / launch background image |
 
+## How to Run
+
+```bash
+python Phase5.py
+
